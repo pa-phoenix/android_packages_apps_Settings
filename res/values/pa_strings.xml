@@ -256,4 +256,10 @@
     <!-- DT2S on statusbar-->
     <string name="double_tap_sleep_gesture_title">Double tap to sleep</string>
     <string name="double_tap_sleep_gesture_summary">Double tap on statusbar to sleep device from any screen</string>
+
+    <!-- Battery style -->
+    <string name="battery_style_title">Battery icon style</string>
+    <string name="battery_style_bar">Bar</string>
+    <string name="battery_style_circle">Circle</string>
+    <string name="battery_style_hidden">Hidden</string>
 </resources>

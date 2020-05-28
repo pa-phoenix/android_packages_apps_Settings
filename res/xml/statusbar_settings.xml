@@ -31,4 +31,17 @@
         android:summary="@string/double_tap_sleep_gesture_summary"
         android:defaultValue="false" />
 
+    <!-- Battery Styles -->
+    <ListPreference
+        android:key="battery_style"
+        android:title="@string/battery_style_title"
+        android:entries="@array/battery_style_entries"
+        android:entryValues="@array/battery_style_values" />
+
+    <!-- Battery Percentage -->
+    <SwitchPreference
+        android:key="battery_percentage"
+        android:title="@string/battery_percentage"
+        android:summary="@string/battery_percentage_description" />
+
 </PreferenceScreen>
