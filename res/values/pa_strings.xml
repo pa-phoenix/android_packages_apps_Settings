@@ -250,4 +250,10 @@
     <!-- Notification Media Options -->
     <string name="artwork_media_background_title">Artwork media background</string>
     <string name="artwork_media_background_summary">Set media artwork as notification media background</string>
+
+    <!-- Status bar -->
+    <string name="status_bar_title">Status bar</string>
+    <!-- DT2S on statusbar-->
+    <string name="double_tap_sleep_gesture_title">Double tap to sleep</string>
+    <string name="double_tap_sleep_gesture_summary">Double tap on statusbar to sleep device from any screen</string>
 </resources>
