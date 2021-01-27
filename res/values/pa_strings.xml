@@ -270,4 +270,8 @@
     <string name="battery_style_bar">Bar</string>
     <string name="battery_style_circle">Circle</string>
     <string name="battery_style_hidden">Hidden</string>
+
+    <!-- Hotspot Client -->
+    <string name="wifi_tether_client_list_title">Client List</string>
+    <string name="wifi_tether_client_list_summary">Manage clients connected to hotspot</string>
 </resources>
